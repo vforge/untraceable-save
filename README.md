@@ -1,4 +1,6 @@
-## untraceable-save [![Build Status](https://travis-ci.org/vforge/untraceable-save.png)](https://travis-ci.org/vforge/untraceable-save)
+## untraceable-save
+[![Build Status](https://travis-ci.org/vforge/untraceable-save.png)](https://travis-ci.org/vforge/untraceable-save)
+[![Dependency Status](https://gemnasium.com/vforge/untraceable-save.png)](https://gemnasium.com/vforge/untraceable-save)
 
 ActiveRecord untraceable save.
 
