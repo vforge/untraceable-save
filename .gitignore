@@ -1,6 +1,6 @@
-*.gem
 .bundle
 .DS_Store
+.idea
 bin
 Gemfile.lock
 pkg
